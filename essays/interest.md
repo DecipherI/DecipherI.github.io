@@ -18,3 +18,5 @@ The core of a good game is good mechanics, good gameplay, and of course it being
 An immense amount of data is being sent and recieved and is infinitely increasing with the issues increasing as well. Time complexities of all functions need to be at the absolute lowest or the lag time will completely destroy the immersive experience of a real time game.
 Thus, I'd like to learn a great deal of extremely fast algorithms for internet server use.
 
+Truly, I just want to become a solo game dev that is able to sustain myself finnancially. The first step is learning advanced programming, the next is dedicating an insane amount of time into game dev. I hope that getting out of this class I will boost my programming skills to greater heights so that when I attempt to create games in the future these powerful algorithms that I'll learn will be able to boost my productivity, open doors to previously immensely difficult questions, and take me a step closer to realizing my only dream.
+
