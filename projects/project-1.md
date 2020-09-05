@@ -14,7 +14,7 @@ summary: I attempted to create a game dev team to grow together with for 4 years
 ---
 
 <div class="ui small rounded images">
-  //<img class="ui image" src="../images/micromouse-robot.png">
+  //<img class="ui image" src="../images/REPLACE WITH IMAGE.png">
 </div>
 
 Since long ago I had a great interest in game dev, but I was a complete beginner with no idea how in the world to do this. So I broke it down in terms of 4 roles to fill.
