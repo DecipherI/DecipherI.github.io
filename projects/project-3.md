@@ -1,61 +1,19 @@
 ---
 layout: project
 type: project
-image: images/cotton-square.png
-title: Cotton
+image: images/IMAGE NAME HERE
+title: Became An Admin For A Game Development Club
 permalink: projects/cotton
 # All dates must be YYYY-MM-DD format!
-date: 2014-04-12
+date: 2019-08-28
 labels:
-  - Lisp
-  - GitHub
-summary: A text adventure game I developed for ICS 313.
+  - Game Development
+summary: I became an admin for my college's Game Development Club, but I was sorely dissapointed.
 ---
 
-<img class="ui image" src="{{ site.baseurl }}/images/cotton-header.png">
+<img class="ui image" src="{{ site.baseurl }}/images/IMAGE NAME HERE">
 
-Cotton is a horror-esque text-based adventure game I developed using the functions and macros built from The Wizard's Game in [Conrad Barski's Land of Lisp](http://landoflisp.com/). Slightly more interesting and convoluted! (It is not that scary.)
+This was the second year as well as the second try to gather a team for game development if you came from "Taking on Everything". Quite frankly it was probably my best chance to gather a team, but the more I spent time around them I realized that pretty much everyone was an introvert that attempted to reach out, but stifled their words too hard. I had become an admin for the club on a whim to foster talent by trying to change the learning style from an extremely casual gathering of people who did nothing then eventually quit to a extreme learning style club that would engage only the strongest wills. However, it was denied. The owner of the club didn't want it to become too strenuous, but the club eventually fell apart and became abandoned because the engagement was nonexistent. Everyone left and I was unable to find anyone because of how distant everyone felt. I just wanted some warmth I suppose so nobody really caught my eye. It was at this time where I started to ramp up my digital art training because
 
-To give you a flavor of the game, here is an excerpt from one run:
-
-<hr>
-
-<pre>
-You open your eyes, and you are greeted by an unfamiliar ceiling.
-Startled, you get to your feet and quickly scan your surroundings. It's
-dark except for the stream of light coming from a crack on the only boarded
-window in the room. You try to peek through the crack, but you cannot see
-anything. You wonder where you are and who could have possibly brought you here.
-
-<--------------------help------------------------>
-Enter quit or one of the following commands -
-Weld light look walk pickup inventory help h ?
-<------------------------------------------------>
-
-look
-The room is a picture of decay with only a faded number identifying it as room-4. The bed you were
- lying on is stained with what looks like dried blood. Could it be your blood? No - it is not. The
- only way out of the room aside from the door to the corridor is a window that is boarded shut. It
- looks like it has been like that for decades. There is a door going west from here. You see a candle
- on the floor. You see a match on the floor.
-
-pickup candle
-- you are now carrying the candle -
-
-pickup match
-- you are now carrying the match -
-
-light match candle
-
-The candle is now lit. It illuminates everything in the room.
-
-walk west
-The corridor is lit with the candle. It is so long that you cannot see to the end. You notice that
- there are words written on the wall. There is a door going east from here. There is a way going north
- from here. There is a door going south from here.
-</pre>
-
-<hr>
-
-Source: <a href="https://github.com/jogarces/ics-313-text-game"><i class="large github icon "></i>jogarces/ics-313-text-game</a>
+Diligence doesn't betray, only you can.
 
