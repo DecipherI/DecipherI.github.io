@@ -2,43 +2,30 @@
 layout: project
 type: project
 image: images/micromouse.jpg
-title: Micromouse
-permalink: projects/micromouse
+title: Taking on Everything
+permalink: projects/takingOnEverything
 # All dates must be YYYY-MM-DD format!
-date: 2015-07-01
+date: 2018-05-30
 labels:
-  - Robotics
-  - Arduino
-  - C++
-summary: My team developed a robotic mouse that won first place in the 2015 UH Micromouse competition.
+  - Digital Art
+  - Game Development
+  - Self Study
+summary: I attempted to create a game dev team to grow together with for 4 years a few times but failed, so I to this day train to become a one man indie dev team.
 ---
 
 <div class="ui small rounded images">
-  <img class="ui image" src="../images/micromouse-robot.png">
-  <img class="ui image" src="../images/micromouse-robot-2.jpg">
-  <img class="ui image" src="../images/micromouse.jpg">
-  <img class="ui image" src="../images/micromouse-circuit.png">
+  //<img class="ui image" src="../images/micromouse-robot.png">
 </div>
 
-Micromouse is an event where small robot “mice” solve a 16 x 16 maze.  Events are held worldwide.  The maze is made up of a 16 by 16 gird of cells, each 180 mm square with walls 50 mm high.  The mice are completely autonomous robots that must find their way from a predetermined starting position to the central area of the maze unaided.  The mouse will need to keep track of where it is, discover walls as it explores, map out the maze and detect when it has reached the center.  having reached the center, the mouse will typically perform additional searches of the maze until it has found the most optimal route from the start to the center.  Once the most optimal route has been determined, the mouse will run that route in the shortest possible time.
+Since long ago I had a great interest in game dev, but I was a complete beginner with no idea how in the world to do this. So I broke it down in terms of 4 roles to fill.
+I would need a programmer in Unity, a digital artist, a 3d modeler, and someone who knew about game music. I thought this was something I could easily find in a college of students burning with desire. But I was completely mistaken. It was extremely hard finding someone who had any skill at all, but I was prepared for that. The real problem was that at the time I had no skill to take my teammates on a journey. I wasn't able to foster their excitement and they left.
 
-For this project, I was the lead programmer who was responsible for programming the various capabilities of the mouse.  I started by programming the basics, such as sensor polling and motor actuation using interrupts.  From there, I then programmed the basic PD controls for the motors of the mouse.  The PD control the drive so that the mouse would stay centered while traversing the maze and keep the mouse driving straight.  I also programmed basic algorithms used to solve the maze such as a right wall hugger and a left wall hugger algorithm.  From there I worked on a flood-fill algorithm to help the mouse track where it is in the maze, and to map the route it takes.  We finished with the fastest mouse who finished the maze within our college.
+For 2 years, I attempted to find people, but for 2 years the numbers slowly dwindled to nothingness. You cannot force an ambition onto someone because it must be something they themselves desire. I realized it might be a pipe dream anyways to have a dream team of 4, so I decided to embark alone attempting to learn all 4 skillsets. I would have to take everything in the world on my shoulders, but if I come out on top then I wouldn't need anyone but myself. Nobody would help me on this self journey anytime soon, but through pure dedication I would be able to reach the level of a true indie game developer. Not one who turns a cube into a mobile game, but someone who makes a real PC game.  
 
-Here is some code that illustrates how we read values from the line sensors:
+It does get extremely hard. When you train too much you lose yourself and wonder why you even started this in the first place. You start to doubt the legitimacy of how hard you work and your ability to even get your skills to an acceptable level. All these doubts start to pile up and drown your pace to a insignificant crawl, but there is only one truth to be said.
 
-```js
-byte ADCRead(byte ch)
-{
-    word value;
-    ADC1SC1 = ch;
-    while (ADC1SC1_COCO != 1)
-    {   // wait until ADC conversion is completed   
-    }
-    return ADC1RL;  // lower 8-bit value out of 10-bit data from the ADC
-}
-```
+Forget all the complicated feelings in the world and return to the roots of your ambition and stand up once again.
 
-You can learn more at the [UH Micromouse Website](http://www-ee.eng.hawaii.edu/~mmouse/about.html).
 
 
 
