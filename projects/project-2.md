@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/vacay-square.png
+image: images/IMAGE NAME HERE
 title: Breakthrough in Digital Art 1
 permalink: projects/digitalArt1
 # All dates must be YYYY-MM-DD format!
@@ -17,4 +17,4 @@ Since 1.5 years ago, I vowed to become a one man indie game dev team. To sum up 
 
 So I did just that. 8 Hours a day of digital art training while balancing everything else in my life. I did it sucessfully a few times and I won't doubt the possibilities anymore. If anything I'll achieve this heavy level of consistency immediately and keep this up. I'll become the solo game dev.
 
-If I can control myself, I can take the world.
+If I can perservere through heard hours, perhaps I can make this work.
