@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/IMAGE NAME HERE
 title: Became An Admin For A Game Development Club
-permalink: projects/cotton
+permalink: projects/game-development-admin
 # All dates must be YYYY-MM-DD format!
 date: 2019-08-28
 labels:
