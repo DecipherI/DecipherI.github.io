@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/IMAGE NAME HERE
+image: images/micromouse.jpg
 title: 8 Hour Commitment Per Day
 permalink: projects/commitment-1
 # All dates must be YYYY-MM-DD format!

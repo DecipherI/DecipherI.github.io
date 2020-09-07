@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/IMAGE NAME HERE
+image: images/micromouse.jpg
 title: Became An Admin For A Game Development Club
 permalink: projects/game-development-admin
 # All dates must be YYYY-MM-DD format!

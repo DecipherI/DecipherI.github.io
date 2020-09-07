@@ -4,4 +4,4 @@
 *.iml
 _site/
 .sass-cache/
-.jekyll-cache
+.jekyll-cache/
