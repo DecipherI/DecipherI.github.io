@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/IMAGE NAME HERE
 title: 8 Hour Commitment Per Day
-permalink: projects/commitment1
+permalink: projects/commitment-1
 # All dates must be YYYY-MM-DD format!
 date: 2020-9-4
 labels:
