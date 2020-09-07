@@ -22,9 +22,9 @@ I would need a programmer in Unity, a digital artist, a 3d modeler, and someone 
 
 For 2 years, I attempted to find people, but for 2 years the numbers slowly dwindled to nothingness. You cannot force an ambition onto someone because it must be something they themselves desire. I realized it might be a pipe dream anyways to have a dream team of 4, so I decided to embark alone attempting to learn all 4 skillsets. I would have to take everything in the world on my shoulders, but if I come out on top then I wouldn't need anyone but myself. Nobody would help me on this self journey anytime soon, but through pure dedication I would be able to reach the level of a true indie game developer. Not one who turns a cube into a mobile game, but someone who makes a real PC game.  
 
-It does get extremely hard. When you train too much you lose yourself and wonder why you even started this in the first place. You start to doubt the legitimacy of how hard you work and your ability to even get your skills to an acceptable level. All these doubts start to pile up and drown your pace to a insignificant crawl, but there is only one truth to be said.
+It does get extremely hard. When you train too much you lose yourself and wonder why you even started this in the first place. You start to doubt the legitimacy of how hard you work and your ability to even get your skills to an acceptable level. All these doubts start to pile up and drown your pace to a insignificant crawl, but you just simply must
 
-Forget all the complicated feelings in the world and return to the roots of your ambition and stand up once again.
+Forget all the complicated feelings in the world and return to the roots of your ambition.
 
 
 
