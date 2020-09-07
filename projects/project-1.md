@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/micromouse.jpg
 title: Taking on Everything
-permalink: projects/takingOnEverything
+permalink: projects/taking-On-Everything
 # All dates must be YYYY-MM-DD format!
 date: 2018-05-30
 labels:
