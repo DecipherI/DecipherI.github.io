@@ -5,7 +5,7 @@ image: images/micromouse.jpg
 title: 8 Hour Commitment Per Day
 permalink: projects/commitment-1
 # All dates must be YYYY-MM-DD format!
-date: 2020-9-4
+date: 2020-09-04
 labels:
   - Digital Art
 summary: After 1.5 years of not knowing what to do, I finally got to a level where I am able to train at a higher level.
