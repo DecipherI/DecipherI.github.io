@@ -29,7 +29,9 @@
   },
   "interests": [
     {
-      "name": "Game Development"
+      "name": ["Game Development",
+               "Digital Art" ,
+               "3D Modeling"]
     }
   ],
   "skills": [
