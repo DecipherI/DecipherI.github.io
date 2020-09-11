@@ -2,7 +2,7 @@
 layout: essay
 type: essay
 title: How to ask programming questions that matter to other people
-date: 2020-08-26
+date: 2020-09-10
 labels:
   - Communication
 ---
