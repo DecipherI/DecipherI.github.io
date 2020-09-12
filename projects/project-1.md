@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/micromouse.jpg
+image: images/images.jpg
 title: Taking on Everything
 permalink: projects/taking-On-Everything
 # All dates must be YYYY-MM-DD format!
@@ -14,7 +14,7 @@ summary: I attempted to create a game dev team to grow together with for 4 years
 ---
 
 <div class="ui small rounded images">
-  <img class="ui image" src="../images/REPLACE WITH IMAGE.png">
+  <img class="ui image" src="../images/images.jpg">
 </div>
 
 Since long ago I had a great interest in game dev, but I was a complete beginner with no idea how in the world to do this. So I broke it down in terms of 4 roles to fill.
@@ -24,7 +24,7 @@ For 2 years, I attempted to find people, but for 2 years the numbers slowly dwin
 
 It does get extremely hard. When you train too much you lose yourself and wonder why you even started this in the first place. You start to doubt the legitimacy of how hard you work and your ability to even get your skills to an acceptable level. All these doubts start to pile up and drown your pace to a insignificant crawl, but you just simply must
 
-Forget all the complicated feelings in the world and return to the roots of your ambition.
+Forget all the complicated feelings that weigh you down and return to the roots of your ambition.
 
 
 
