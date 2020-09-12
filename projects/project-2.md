@@ -2,8 +2,8 @@
 layout: project
 type: project
 image: images/images.jpg
-title: 8 Hour Commitment Per Day
-permalink: projects/commitment-1
+title: Taking On Everything Part 2
+permalink: projects/taking-On-Everything-2
 # All dates must be YYYY-MM-DD format!
 date: 2020-09-04
 labels:
