@@ -2,8 +2,8 @@
 layout: project
 type: project
 image: images/images.jpg
-title: Taking on Everything
-permalink: projects/taking-On-Everything
+title: Taking on Everything Part 1
+permalink: projects/taking-On-Everything-1
 # All dates must be YYYY-MM-DD format!
 date: 2018-05-30
 labels:
