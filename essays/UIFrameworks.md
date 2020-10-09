@@ -5,7 +5,7 @@ title: Worth it to learn UI Frameworks?
 date: 2020-10-08
 labels:
   - UI Framworks
-  -Learning
+  - Learning
 ---
 ## What's the Difference between HTML and UI Frameworks?
 Raw HTML requires extensive knowledge to create great websites that usually take an immense amount of code for simple objectives. UI Frameworks formulates all the code, style, and scripts you need into a few links, and javascript file to import. To sum it up simply, the written code of html in UI Framework style completely overwhelms raw html in speed and usability. Creating good looking UI with frameworks would only take a few lines, whiles you would need to meticulously go into your .css file for styles to fine tune margins, borders, shapes, buttons... the list stretches to infinity. There's a heavy amount of work that goes into styling UI and these UI Frameworks nullify this vast need for knowledge to put in simple arrangements of words and pictures.
