@@ -1,14 +1,16 @@
 ---
 layout: essay
 type: essay
-title: "Final Project Idea"
+title: "Final Project Idea : Heavy Advancement"
 date: 2020-11-01
 labels:
   - Software Engineering
   - Meteor
 ---
 ## Ideology
-Good Webpages are abundant to matter where you go. However, there is a limit to ingenuity. The limit is simply knowledge because when one doesn't aim for greater heights, the world leaves them behind with innovation. As machines grow and can self-learn as if a sentient entity takes over, what happens to humans? Do we simply stagnate for there is nothing to strive for? Wrong! Within the greatest peak of innovation, a collection of the most intelligent minds forges a higher peak. Within simple frameworks and tools to boost HTML lies hidden potential. Immense amount of fragmented knowledge is applied to websites all across the internet. By taking the greatest mechanics in websites today and merging them to elevate or even create an effect a world higher brings us to the next peak. For this project I must take the website functionality of 5 different professional websites and the HTML effect knowledge of 12 different videos(because some of them are actually pure gems believe it or not) to create the best looking and the best functionally easy website in existence(both for the User and Development).  
+Good Webpages are abundant to matter where you go. However, there is a limit to ingenuity. The limit is simply knowledge because when one doesn't aim for greater heights, the world leaves them behind with innovation. As machines grow and can self-learn as if a sentient entity takes over, what happens to humans? Do we simply stagnate for there is nothing to strive for? Wrong! Within the greatest peak of innovation, a collection of the most intelligent minds forges a higher peak. Within simple frameworks and tools to boost HTML lies hidden potential. Immense amount of fragmented knowledge is applied to websites all across the internet. By taking the greatest mechanics in websites today and merging them to elevate or even create an effect a world higher brings us to the next peak. 
+
+For this project I must take the website functionality of 5 different professional websites and the HTML effect knowledge of 12 different videos(because some of them are actually pure gems believe it or not) to create the best looking and the best functionally easy website in existence(both for the User and Development).  
 
 ## Sources of Interest
 This is highly experiemental design so putting an actual design target on this would be very detrimental, so I prefer to simply let flow decide the way on this one. However, I am thinking of game design so most of the websites will be from game companies.
