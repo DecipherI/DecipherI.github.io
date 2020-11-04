@@ -12,12 +12,14 @@ Good Webpages are abundant to matter where you go. However, there is a limit to 
 
 ## Sources of Interest
 This is highly experiemental design so putting an actual design target on this would be very detrimental, so I prefer to simply let flow decide the way on this one. However, I am thinking of game design so most of the websites will be from game companies.
+
 Websites:
 - Nvidia
 - Genshin Impact
 - Nike
 - Tesla(Is hyper modern)
 - League of Legends
+
 Videos:
 - Will source them in Readme.md later on
 
