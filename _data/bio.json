@@ -35,21 +35,24 @@
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "level": "",
+      "level": "Comfortable",
       "keywords": [
         "C",
         "C++",
         "Java",
-        "Javascript"
+        "Javascript",
+        "HTML",
+        "JSX"
       ]
     },
     {
       "name": "Toolsets/OS",
       "level": "Beginner",
       "keywords": [
-        "Git/GitHub",
-        "Windows 10"
-        
+        "Github(Group Projects)",
+        "React JSX",
+        "Semantic UI",
+        "Meteor"
       ]
     }
   ],
@@ -61,7 +64,7 @@
       "startDate": "2018-08-26",
       "endDate": "Present",
       "gpa": "3.0 ",
-      "courses": [ "ICS 111", "ICS 141" , "ICS 211" , "ICS 241" 
+      "courses": [ "ICS 111", "ICS 141" , "ICS 211" , "ICS 241" , "ICS 314" 
       ]
     }
   ],
