@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/images.jpg
+image: images/gruhb-1.png
 title: GruHB(Food Vendor App)
 permalink: projects/Food-Vendor-App
 # All dates must be YYYY-MM-DD format!
